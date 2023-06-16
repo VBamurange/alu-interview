@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-""" rain
-"""
+""" calculate the rain"""
+
 
 def rain(walls):
     if not walls or len(walls) < 3:
